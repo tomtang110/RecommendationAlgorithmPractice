@@ -24,5 +24,5 @@ The model is implemented by tensorflow1.0
 
 ## Feature Enginnering(特征工程)
 ### Continuous data(连续数值处理)
-* Data Standardisation(数据标准化)[]
+* Data Standardisation(数据标准化)[https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/FeatureEnginnering.ipynb]
 
