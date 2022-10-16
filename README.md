@@ -6,6 +6,7 @@ This program is the implemention of "The Theory and Practice of Recommendation A
 
 The link of "The Theory and Practice of Recommendation Algorithm" is published in [推荐算法的理论和实践](https://www.zhihu.com/people/tang-ai-3-14/posts)
 
+
 理论讲解发布在[推荐算法的理论和实践](https://www.zhihu.com/people/tang-ai-3-14/posts)
 
 Note: 
@@ -25,4 +26,6 @@ The model is implemented by tensorflow1.0
 ## Feature Enginnering(特征工程)
 ### Continuous data(连续数值处理)
 * [Data Standardisation(数据标准化)](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
+* [Continuous data binning(无监督分箱(unsupervised binning),IV分箱(IV binning),卡方分箱(chi2 binning),KS分箱(Best KS binning)和最优分箱(optimal binning))](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
+
 
