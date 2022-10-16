@@ -1,3 +1,3 @@
 from scipy.stats import boxcox
 
-boxcox
+from monotonic_binning.monotonic_woe_binning import Binning
