@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="166fa8a4-3c7f-4299-a09b-d8bcd0abc349" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/FeatureEnginnering/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RecommendationAlgorithmPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RecommendationAlgorithmPractice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FeatureEnginnering/ContinuousFeature.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FeatureEnginnering/ContinuousFeature.ipynb" afterDir="false" />
     </list>
