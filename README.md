@@ -27,5 +27,7 @@ The model is implemented by tensorflow1.0
 ### Continuous data(连续数值处理)
 * [Data Standardisation(数据标准化)](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
 * [Continuous data binning(无监督分箱(unsupervised binning),IV分箱(IV binning),卡方分箱(chi2 binning),KS分箱(Best KS binning)和最优分箱(optimal binning))](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
+### Discrete Data(离散数值处理)
+
 
 
