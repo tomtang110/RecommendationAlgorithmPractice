@@ -28,6 +28,20 @@ The model is implemented by tensorflow1.0
 * [Data Standardisation(数据标准化)](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
 * [Continuous data binning(无监督分箱(unsupervised binning),IV分箱(IV binning),卡方分箱(chi2 binning),KS分箱(Best KS binning)和最优分箱(optimal binning))](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/ContinuousFeature.ipynb)
 ### Discrete Data(离散数值处理)
+* [Label Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [Frequency Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [OneHot Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [Target Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [CatBoost Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [WOE Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [MEstimate Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [LeaveOneOut Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [Sum Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+* [BetaTarget Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
+
+
+
+
 
 
 
