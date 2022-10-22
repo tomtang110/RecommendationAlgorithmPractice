@@ -1,3 +1,3 @@
-from scipy.stats import boxcox
-
-from monotonic_binning.monotonic_woe_binning import Binning
+from surprise import Dataset, KNNBaseline, SVD, accuracy, Reader
+a = KNNBaseline().fit().compute_similarities()
+from surprise.similarities import cosine
