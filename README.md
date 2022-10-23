@@ -39,6 +39,14 @@ The model is implemented by tensorflow1.0
 * [Sum Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
 * [BetaTarget Encoding](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/FeatureEnginnering/DiscreteFeature.ipynb)
 
+## Collaborative Filtering(协同过滤)
+
+* [Item Based CF]()
+* [User Based CF]()
+* [SVD]()
+* [Swing]()
+* [Adamic-Adar]()
+
 
 
 
