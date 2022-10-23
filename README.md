@@ -41,11 +41,11 @@ The model is implemented by tensorflow1.0
 
 ## Collaborative Filtering(协同过滤)
 
-* [Item Based CF]()
-* [User Based CF]()
-* [SVD]()
-* [Swing]()
-* [Adamic-Adar]()
+* [Item Based CF](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/CollaborativeFiltering/CF.ipynb)
+* [User Based CF](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/CollaborativeFiltering/CF.ipynb)
+* [SVD](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/CollaborativeFiltering/CF.ipynb)
+* [Swing](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/CollaborativeFiltering/CF.ipynb)
+* [Adamic-Adar](https://github.com/tomtang110/RecommendationAlgorithmPractice/blob/main/CollaborativeFiltering/CF.ipynb)
 
 
 
