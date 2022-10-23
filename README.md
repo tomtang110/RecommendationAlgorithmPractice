@@ -11,13 +11,13 @@ The link of "The Theory and Practice of Recommendation Algorithm" is published i
 
 Note: 
 
-The dataset of this program is the **income census**.
+The dataset of this program includes the **income census**, **BX-CSV-Dump**.
 
 The model is implemented by tensorflow1.0
 
 注：
 
-本项目的数据集均采用income census
+本项目的数据集包括income census，BX-CSV-Dump
 
 模型代码实现均为tensorflow1.0
 
